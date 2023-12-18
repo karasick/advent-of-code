@@ -1,0 +1,11 @@
+{
+  "name": "day-1",
+  "module": "part-1.ts",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
